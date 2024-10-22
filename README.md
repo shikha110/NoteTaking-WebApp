@@ -15,11 +15,12 @@ ACTIVITY PAGE:
 More in the PPT
 
 Tool:-
-	Backend user- Django
+	Python
+ 	Backend user- Django
 	Frontend user- Django
 	Database- SQL
 Technologies:-
 	Xampp Server
 	Visual studio
  
-![image](https://github.com/user-attachments/assets/83645197-ed77-425c-a80f-9aa11130060e)
+
